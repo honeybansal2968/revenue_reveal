@@ -1,16 +1,22 @@
-# revenue_reveal
+# 📈 Earnings Tracker App
 
-A new Flutter project.
+A Flutter application for tracking company earnings, comparing estimated earnings to actual earnings, and viewing detailed earnings call transcripts. This app provides an interactive line graph for each company, displaying the estimated and actual earnings data across multiple quarters. Users can click on any data point on the chart to view the earnings call transcript for that specific period.
 
-## Getting Started
+## 🎯 Features
+- **Earnings Data Visualization**: Displays a comparison between estimated and actual earnings for a company in an interactive chart.
+- **Data Point Click**: Allows users to click on data points in the chart to fetch and view detailed earnings call transcripts for the selected quarter.
+- **Real-Time API Integration**: Utilizes APIs to fetch earnings data and transcripts.
+- **Simple and Interactive UI**: User-friendly interface with interactive Syncfusion charts.
 
-This project is a starting point for a Flutter application.
+## 📦 Prerequisites
+- **Flutter SDK**: Version 2.0 or higher.
+- **Syncfusion Flutter Package**: To render charts, this app uses Syncfusion's charting library.
+  - Install Syncfusion: [Syncfusion Flutter Charts](https://pub.dev/packages/syncfusion_flutter_charts)
 
-A few resources to get you started if this is your first Flutter project:
+## ⚙️ Installation & Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Step 1: Clone the repository
+```bash
+git clone https://github.com/honeybansal2968/revenue_reveal.git
+cd revenue_reveal
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
