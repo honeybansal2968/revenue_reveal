@@ -20,3 +20,9 @@ A Flutter application for tracking company earnings, comparing estimated earning
 git clone https://github.com/honeybansal2968/revenue_reveal.git
 cd revenue_reveal
 
+![image](https://github.com/user-attachments/assets/3fdeef99-fdde-40a0-92f8-851163e07807)
+
+![image](https://github.com/user-attachments/assets/b7a1e842-647c-4c55-9f09-5b3195324111)
+
+![image](https://github.com/user-attachments/assets/57974602-1556-4dd2-837e-3b32cbdd8e83)
+
